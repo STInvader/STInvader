@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @STInvader
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, Python, Front end webdev, Lua
-- 💞️ I’m looking to collaborate on projects for moneyy
-- 📫 How to reach me: There must be some chat on github itself.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am very intelligent
+Hi. I'm ST_Invader. I've been programming for ~**6 years** till now. I've coded in Python, C++, Kotlin, Javascript, and now I'm currently learning Solidity.
 
-<!---
-STInvader/STInvader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I had been programming for a while. But I think I really like Solidity and web3 as a whole. Much more than normal Python. 
+My major goal is to become an auditor.
+
+So, if you need me, I'll be screaming at my screen till I find some bugs.
