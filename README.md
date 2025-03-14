@@ -4,6 +4,6 @@ I've been programming for ~6 years, working with **Python, C++, Kotlin, JavaScri
 
 I have coded in many languages, but I find **web3 and Solidity** way more exciting than regular Python. My current goal is to be one of the best **Smart Contract Auditors**.  
 
-### Connect
-[Twitter](x.com/TheSTInvader)
+### Connect  
+[Twitter](https://x.com/TheSTInvader) <br>  
 📫 Reach me on Discord: **ST_Invader**
