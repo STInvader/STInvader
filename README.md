@@ -8,5 +8,5 @@ ___
 ### Connect with me 🔗
 
 🐦 My Twitter (X) account: **[Twitter](https://www.x.com/TheSTInvader)** <br>
-📫 Reach me on Discord: **ST_Invader**
+📫 Reach me on Discord: **ST_Invader** <br>
 ✉️ E-Mail: [STInvader@proton.me](mailto:STInvader@proton.me)
