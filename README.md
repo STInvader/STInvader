@@ -1,6 +1,9 @@
-Hi. I'm ST_Invader. I've been programming for ~**6 years** till now. I've coded in Python, C++, Kotlin, Javascript, and now I'm currently learning Solidity.
+## Hi, I'm ST_Invader 👋  
 
-I had been programming for a while. But I think I really like Solidity and web3 as a whole. Much more than normal Python. 
-My major goal is to become an auditor.
+I've been programming for ~6 years, working with **Python, C++, Kotlin, JavaScript**, and lately, I've been diving into **Solidity**.  
 
-So, if you need me, I'll be screaming at my screen till I find some bugs.
+I have coded in many languages, but I find **web3 and Solidity** way more exciting than regular Python. My current goal is to be one of the best **Smart Contract Auditors**.  
+
+### Connect
+[Twitter](x.com/TheSTInvader)
+📫 Reach me on Discord: **ST_Invader**
