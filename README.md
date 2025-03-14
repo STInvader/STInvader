@@ -9,3 +9,4 @@ ___
 
 🐦 My Twitter (X) account: **[Twitter](https://www.x.com/TheSTInvader)** <br>
 📫 Reach me on Discord: **ST_Invader**
+✉️ E-Mail: [STInvader@proton.me](mailto:STInvader@proton.me)
